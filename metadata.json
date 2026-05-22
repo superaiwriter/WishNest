@@ -1,0 +1,6 @@
+{
+  "name": "WishNest",
+  "description": "An AI-powered Birthday & Anniversary Reminder app designed to keep you connected and help you send warm, customized wishes on time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
